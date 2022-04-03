@@ -1,0 +1,6 @@
+[submodule "evercode-backend"]
+	path = evercode-backend
+	url = https://github.com/ophelo/evercode-backend
+[submodule "evercode-frontend"]
+	path = evercode-frontend
+	url = https://github.com/ophelo/evercode-frontend
