@@ -8,7 +8,7 @@ git checkout dev
 git pull origin dev 
 
 # Pulla nel back 
-cd evercode-backend
+cd ../evercode-backend
 git checkout dev 
 git pull origin dev 
 
